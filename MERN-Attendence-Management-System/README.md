@@ -81,10 +81,3 @@ The frontend is built using React with React Router for navigation. Components a
 - **Frontend**: React, React Router
 - **Middleware**: JWT Authentication, Helmet for HTTP headers, Express Rate Limiting
 
-## Contributors
-
-- [chmuhammadasim](https://github.com/chmuhammadasim)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
